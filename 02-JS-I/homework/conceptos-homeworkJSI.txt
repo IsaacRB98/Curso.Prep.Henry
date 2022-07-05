@@ -1,0 +1,14 @@
+VARIABLES: las variables son formas de almacenar informacion para usar mas tarde,podemos usar varias veces
+esta informacion, podemos nombrarlas, modificarlas y restablecerlas
+
+STRINGS: las strings pueden ser letras, palabras o frases, todo lo que se encierra entre comillas (dobles o simples)
+es una STRINGS
+
+FUNCIONES:una funcion le dice a la computadora que haga algo determinado
+          ARGUMENTOS: es informacion adicional dentro de la funcion que le damos a la computadora
+          RETURN: es como una declaracion de retorno que devuelve algo en especifico 
+
+DECLARACION "IF": esta declaracion nos permite ejecutar una seccion especifica de un codigo dentro de un bloque
+si la condicion dentro de esta declaracion se cumple, si dicha condicion no se cumple no se ejecuta el codigo
+
+VALORES BOOLEANOS: los valores booleanos son como los numeros binarios, solo tienen dos opciones, true o false 
