@@ -1,0 +1,16 @@
+CONCEPTOS:
+
+FOR: Es una de las dos expresiones de bucle que tiene Javascrip, es similar a la expresión "IF" pero mas comleja, el formato de 
+esta expresión es: palabra clave "for" seguida de parentesis () y abrir y cerrar llaves [], dentro de los parentesis van tres cosas
+primero una variable que debemos declarar sobre la cual se repetira el blucle, segundo una expresión condicional, la cual se ejecutara 
+hasta que devuelva "false" y tercero incrementamos el valor de la variable. Estas tres declaraciones deben estar separadas
+por un punto y coma.
+
+&&: Es uno de los operadores logicos que se utiliza en JS, su nombre es "Y" (AND), este operador evaluará la expresión y devolverá "true"
+solo si ambas expresiones son true, si uno o ambas expresiones son falsas devolverá "false".
+
+||: Es el operador "O" (OR). Determina si una de las expresiones es "true". Devolverá "true", si una o ambas expresiones son true, 
+y si ambas empresiones son "false"  devolverá "false".
+
+!: Es el operador logico "NOT" (NO), este operador devolverà el valor booleano opuesto de lo que se le pasa.
+ 
