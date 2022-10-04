@@ -1,0 +1,4 @@
+Array:
+Es como un contenedor en el cual podemos guardar cualquier coleccion de datos de cualquier tipo (enteros, cadenas, booleanos, funciones, otros arrays)
+y acceder a ellos atraves de sus indices, tambien es posible agregar y eliminar datos de estos arrays cuando nosotros
+querramos. Los arrays se declaran con [] y los elementos dentro de los arrays deben estar separados por punto y coma (;).
