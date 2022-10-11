@@ -1,0 +1,25 @@
+
+
+CONCEPTOS JSIV:
+
+OBJETOS:
+Los objetos son contenedores de datos, a diferencia de los arrays que contienen informacion de muchos elementos, uno relacionado con otro, los objetos
+contienen mucha informacion de un solo elemento.
+Estos se instancian usando llaves {};
+
+PROPIEDADES:
+Las propiedades de los objetos son las llamadas Key:value o pares Clave:Valor, en donde la clave es el identificador de dicha propiedad y valor es el calor que queremos
+guardar en esa clave,no puede haber claves con el mismo nombre solo se admite una, para separar las propiedades utilizamos una coma, ademas los valores que asignamos a las
+clave pueden ser cualquier tipo de dato en JS.
+
+MÉTODO:
+Los métodos son las funciones que guardamos en los objetos, podemos llamarlos con la notacion de punto y parentesis finales.
+
+BUCLE "FOR...IN":
+Es ligeramente diferente al bucle que utilizamos con las matrices, pero como los objetos no tienen indices numericos el bucle estandar no funcionará, por lo que 
+utilizamos el bucle "for ...in loop", comienza igual pero entre parentecis declaramos una variable, la palabra clave "IN" y el nombre del objeto, esto recorrera cada 
+clave del objeto.
+
+NOTACION DE PUNTOS vs NOTACION DE CORCHETES: 
+La notacion de puntos es la mas utilizada ya que es mas literal, accede solo a las propiedades.
+la notacion de corchetes es un poco mas compleja ya que permite interactuar con variables y recorrer objetos.
