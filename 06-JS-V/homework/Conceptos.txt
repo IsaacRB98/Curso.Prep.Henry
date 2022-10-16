@@ -1,0 +1,9 @@
+CONCEPTOS:
+
+PROTOTYPE:
+Es como una plantilla que contiene metodos a los cuales cada objeto prteneciente a la misma clase puede acceder.
+
+
+CONSTRUCTORS ( DE CLASE):
+Basicamente son plantillas de las  cuales se basaran los objetos que se creen a partir de esta, lo que permitira
+que compartan gran parte de funcionalidad, propiedades y metodos.
